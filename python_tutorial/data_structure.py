@@ -68,7 +68,16 @@ print(str(2.5))  # return str 2.5
 print(type(str(1)))
 print(type(str(2.5)))
 
-# string
+# string: string is a list as each letter / char is a string.
+# string is an array and list. List represent an array
+
+s0_ver = "Hello, World!"
+print(len(s0_ver))
+
+print (list(s0_ver))
+for x in "Hello, World!":
+  print(x)
+   
 
 s_ver = "python"
 
