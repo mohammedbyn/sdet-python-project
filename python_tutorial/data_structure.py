@@ -131,3 +131,4 @@ for f in range(0, 3): print(a[f])
 
 for f in range(0, 3):
     print(a[f], '\n')
+
